@@ -21,6 +21,7 @@ The first three characters mean the full version of the game, in this case 1.5.0
 3 - made for websites;
 
 The next one is 20, this means which category this build falls into, more about the categories in this Telegram channel - https://t.me/adventure_game_offical
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Моя первая игра на Godot Engine
