@@ -2,22 +2,47 @@
 
 This is my first game "ADVENTURE", which is a prototype of my future game.
 
-## v1.0.0
-![Снимок экрана 2024-05-28 124127](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/b24e2a9d-f987-432e-a580-3733e67e8858)
+Decoding game builds:
+build 1.5.0120
+The first three characters mean the full version of the game, in this case 1.5.0, but since the third character is 0, we do not write it. The remaining 4 characters mean the following, the first of them is 0, there are two options here, either 0 is the original version of the game, 1 is a mod made for the game by a third-party developer. Next comes 1, there are several options:
 
-![Снимок экрана 2024-05-28 124103](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/13f57ea7-c2c1-4397-8df9-f635917a32e9)
+1 - made for the 64-bit version of Windows 10 and 11;
 
-![Снимок экрана 2024-05-28 124050](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/70ae62af-9e8e-407b-953c-a7b7374c1e43)
+9 - made for the 32-bit version of Windows 10 and 11;
 
-## v1.1.0
-![Снимок экрана 2024-05-28 124249](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/84a7eeac-4b47-473f-b1a5-63b8b5de7aa6)
+6 - made for Linux;
 
-![Снимок экрана 2024-05-28 124236](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/4d7b386c-6546-4c2c-be2b-171d133b1a48)
+4 - made for iPhone and iPad;
 
-![Снимок экрана 2024-05-28 124223](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/2405ff60-500d-4b71-8549-a03144a9dfd5)
+5 - made under MacOS;
 
-![Снимок экрана 2024-05-28 124302](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/7d8d2dbe-5cf4-4e3d-b145-fb3920a72b75)
+7 - made for Android;
 
-![Снимок экрана 2024-05-28 124319](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/c0416ce5-173c-410f-9caf-96794f7a5c3f)
+3 - made for websites;
 
-![Снимок экрана 2024-05-28 124313](https://github.com/MrLevan4ik/My-first-game-on-Godot-Engine/assets/144740395/a57d230b-682d-4d1a-bee8-cd6a3d2db2fa)
+The next one is 20, this means which category this build falls into, more about the categories in this Telegram channel - https://t.me/adventure_game_offical
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Моя первая игра на Godot Engine
+
+Это моя первая игра "ADVENTURE", прототип моей будущей игры
+
+Расшифровка сборок игры:
+build 1.5.0120
+Первые три знака означают полную версию игры, в данном случае 1.5.0, но так как третий знак 0 то мы его не пишем. Остальные 4 знака значат следующее, первый из них 0, варианта здесь два либо 0 - оригинальная версия игры, 1 - мод сделанный для игры сторнним разработчиком. Следующим идёт 1, здесь вариантов несколько:
+
+1 - сделанно под 64-битную версию виндовс 10 и 11;
+
+9 - сделанно под 32-битную версию виндовс 10 и 11;
+
+6 - сделанно под линукс;
+
+4 - сделанно под айфон и айпад;
+
+5 - сделанно под макос;
+
+7 - сделанно под андройд;
+
+3 - сделанно под сайты;
+
+Следующим идёт 20, это означает в какую категорию попадает данный билд, подробнее о категориях в этом Телеграм канале - https://t.me/adventure_game_offical
